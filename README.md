@@ -1,27 +1,44 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi Gholamrezaei (MMG)</h1>
 <h3 align="center">A developer who is eager to learn programming and related fields 😃</h3>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mrmmg&label=Profile%20Views&color=2&icon=5&pretty=true" />
-</a>
+---
 
-<h3 align="left">🌐 Socials</h3>
+![Profile View](https://visitcount.itsvg.in/api?id=mrmmg&label=Profile%20Views&color=2&icon=5&pretty=true)
+
+---
+
+### 🌐 Socials
 
 <p align="left">
-<a href="https://twitter.com/mrmehdi_gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmehdi_gh" height="30" width="40" title="Follow me on twitter" /></a>
-<a href="https://linkedin.com/in/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrmmg" height="30" width="40" title="Connect with me on LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/9273310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9273310" height="30" width="40" title="Visit My Stack Overflow Profile" /></a>
-<a href="https://www.youtube.com/c/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrmmg" height="30" width="40" title="Learn with me" /></a>
-<a href="https://www.leetcode.com/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrmmg" height="30" width="40" title="Solve problems with me" /></a>
+  <a href="https://twitter.com/mrmehdi_gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmehdi_gh" height="30" width="40" title="Follow me on twitter" /></a>
+  <a href="https://linkedin.com/in/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrmmg" height="30" width="40" title="Connect with me on LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/9273310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9273310" height="30" width="40" title="Visit My Stack Overflow Profile" /></a>
+  <a href="https://www.youtube.com/c/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrmmg" height="30" width="40" title="Learn with me" /></a>
+  <a href="https://www.leetcode.com/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrmmg" height="30" width="40" title="Solve problems with me" /></a>
 </p>
 
-<h3 align="left">💻 My Stack</h3>
+---
 
-<img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5"/><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/><img src="https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js&logoColor=white" alt="VueJS"/><img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="NuxtJS"/>
+### 💻 My Stack
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![PHP](https://img.shields.io/badge/PHP-%234F5B93.svg?style=for-the-badge&logo=PHP&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23fb503b.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-<h3 align="left">📊 GitHub Stats :</h3>
+![MySQL](https://img.shields.io/badge/mysql-%232b5d80.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%230cb8c5.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23f26a11.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Vue JS](https://img.shields.io/badge/Vue-%2300C675?style=for-the-badge&logo=vue.js&logoColor=white)  ![Nuxt JS](https://img.shields.io/badge/Nuxt-%2300C675?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23264de4.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23cc649c.svg?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237c13f6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009900.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23ef391a.svg?style=for-the-badge&logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
 <a href="https://github.com/mrmmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmmg&layout=compact&langs_count=8&theme=algolia"/>
