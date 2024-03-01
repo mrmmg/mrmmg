@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi Gholamrezaei (MMG)</h1>
-<h3 align="center">A developer who is eager to learn programming and related fields 😃</h3>
+<h3 align="center">A full-stack developer who is eager to be a software engineer and learn related fields 😃</h3>
 
 ---
 
@@ -15,6 +15,14 @@
   <a href="https://stackoverflow.com/users/9273310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9273310" height="30" width="40" title="Visit My Stack Overflow Profile" /></a>
   <a href="https://www.youtube.com/c/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrmmg" height="30" width="40" title="Learn with me" /></a>
   <a href="https://www.leetcode.com/mrmmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrmmg" height="30" width="40" title="Solve problems with me" /></a>
+</p>
+
+---
+
+### 🚀 My educational media - StarShip Learn
+<p align="left">
+  <a href="https://www.youtube.com/@starshiplearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="starship learn youtube channel" height="30" width="40" title="Starship learn youtube channel page" /></a>
+  <a href="https://www.youtube.com/@starshiplearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="starship learn github profile" height="30" width="40" title="Starship learn github profile" /></a>
 </p>
 
 ---
